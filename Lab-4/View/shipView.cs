@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
+using Lab_4.ViewModel;
+using Lab_4.Resources;
 
 public partial class shipView : Form
 {
@@ -11,7 +13,7 @@ public partial class shipView : Form
         _viewModel = new ShipViewModel();
 
         // Asignar la imagen inicial de la nave
-        pictureBox1.Image = Properties.Resources.Idle__1_;
+        pictureBox1.Image = ResourceManager.Idle;
         pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
 
         // Suscribirse a los cambios en la posición de la nave
@@ -31,13 +33,13 @@ public partial class shipView : Form
             {
                 _viewModel.MoveUp();
                 // Cambiar la imagen cuando se presiona la tecla de arriba
-                pictureBox1.Image = Properties.Resources.nave_arriba; // Nueva imagen
+                pictureBox1.Image = ResourceManager.MoveUp; // Nueva imagen
             }
             else if (e.KeyCode == Keys.Down)
             {
                 _viewModel.MoveDown();
                 // Restaurar la imagen original cuando se presiona la tecla de abajo
-                pictureBox1.Image = Properties.Resources.Idle__1_; // Imagen original
+                pictureBox1.Image = ResourceManager.Idle; // Imagen original
             }
         };
     }

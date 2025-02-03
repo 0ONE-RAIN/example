@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\View\\shipView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\shipView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\view\\shipview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:view\\shipview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\View\\shipView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\shipView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\view\\shipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:view\\shipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\viewmodel\\shipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:viewmodel\\shipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\ViewModel\\ShipViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\ShipViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Resources\\ResourcesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\ResourcesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Lab-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Lab-4.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab-4.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\lab-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:lab-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Model\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|c:\\users\\user\\documents\\jala\\programin\\labs\\lab-4\\lab-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FEFAD0-7590-454B-87A6-AC0C63C321AB}|Lab-4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ResourcesManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Resources\\ResourcesManager.cs",
+              "RelativeDocumentMoniker": "Resources\\ResourcesManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Resources\\ResourcesManager.cs",
+              "RelativeToolTip": "Resources\\ResourcesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:43:09.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Model\\ShipModel.cs",
+              "RelativeDocumentMoniker": "Model\\ShipModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Model\\ShipModel.cs",
+              "RelativeToolTip": "Model\\ShipModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:37:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Properties\\Resources.Designer.cs",
               "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAE0AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T23:17:25.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpaceShip.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Model\\SpaceShip.cs",
-              "RelativeDocumentMoniker": "Model\\SpaceShip.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Model\\SpaceShip.cs",
-              "RelativeToolTip": "Model\\SpaceShip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:58:37.634Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +95,7 @@
               "RelativeDocumentMoniker": "View\\shipView.Designer.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\View\\shipView.Designer.cs",
               "RelativeToolTip": "View\\shipView.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T22:54:26.671Z",
               "EditorCaption": ""
@@ -91,14 +108,14 @@
               "RelativeDocumentMoniker": "View\\shipView.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\View\\shipView.cs",
               "RelativeToolTip": "View\\shipView.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T22:53:32.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Lab-4.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Lab-4.csproj",
               "RelativeDocumentMoniker": "Lab-4.csproj",
@@ -111,33 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Lab-4.csproj.user",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Lab-4.csproj.user",
               "RelativeDocumentMoniker": "Lab-4.csproj.user",
               "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Lab-4.csproj.user",
               "RelativeToolTip": "Lab-4.csproj.user",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
               "WhenOpened": "2025-02-02T22:48:52.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ShipViewModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\ViewModel\\ShipViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\ShipViewModel.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\ViewModel\\ShipViewModel.cs",
               "RelativeToolTip": "ViewModel\\ShipViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T22:45:21.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\jala\\Programin\\Labs\\lab-4\\Lab-4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -145,8 +162,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:44:17.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:44:17.568Z"
             }
           ]
         }

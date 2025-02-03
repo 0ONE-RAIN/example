@@ -1,43 +1,42 @@
-﻿using System;
+﻿using Lab_4.Model;
 using System.ComponentModel;
-
-public class ShipViewModel : INotifyPropertyChanged
+using Lab_4.Resources;
+namespace Lab_4.ViewModel
 {
-    private SpaceShip _shipModel;
-
-    public int PosicionY
+    public class ShipViewModel : INotifyPropertyChanged
     {
-        get { return _shipModel.PosicionY; }
-        private set
+        private ShipModel _shipModel;
+
+        public int PosicionY
         {
-            if (_shipModel.PosicionY != value)
-            {
-                _shipModel.PosicionY = value;
-                OnPropertyChanged(nameof(PosicionY));
-            }
+            get { return _shipModel.PosicionY; }
         }
-    }
 
-    public ShipViewModel()
-    {
-        _shipModel = new SpaceShip();
-    }
+        public ShipViewModel()
+        {
+            _shipModel = new ShipModel();
+            _shipModel.PosicionYChanged += (s, e) => OnPropertyChanged(nameof(PosicionY)); // Suscribirse al evento
+        }
 
-    public void MoveUp()
-    {
-        _shipModel.MoveUp();
-        OnPropertyChanged(nameof(PosicionY)); // Notificar que la posición cambió
-    }
+        // Comando para mover el sprite hacia arriba
+        public void MoveUp()
+        {
+            _shipModel.MoveUp();
+            ResourceManager.MoveSound.Play(); // Reproducir sonido
+        }
 
-    public void MoveDown()
-    {
-        _shipModel.MoveDown();
-        OnPropertyChanged(nameof(PosicionY)); // Notificar que la posición cambió
-    }
+        // Comando para mover el sprite hacia abajo
+        public void MoveDown()
+        {
+            _shipModel.MoveDown();
+            ResourceManager.MoveSound.Play(); // Reproducir sonido
+        }
 
-    public event PropertyChangedEventHandler? PropertyChanged;
-    protected void OnPropertyChanged(string propertyName)
-    {
-        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        // Implementación de INotifyPropertyChanged
+        public event PropertyChangedEventHandler PropertyChanged;
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
     }
 }
